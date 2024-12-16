@@ -68,7 +68,7 @@ Follow these steps to build and use the tool:
 
 ---
 
-## 💬 Support & Community  
+## 💬 Support & Community 
 
 For any help or questions, feel free to reach out:  
 
