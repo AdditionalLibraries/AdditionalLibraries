@@ -61,10 +61,10 @@ Follow these steps to build and use the tool:
 ## 🎥 Video Guides  
 
 1. **How to Use the Jar Rat**  
-   [Video Guide](https://www.youtube.com/watch?v=EEQbzPRPAjg)
+   [Video Guide]([https://www.youtube.com/watch?v=EEQbzPRPAjg](https://www.youtube.com/watch?v=07nKmbf3GCs))
 
 2. **How to Use RAT with the Mod**  
-   [Video Guide](https://www.youtube.com/watch?v=EBo7YuzW1dc)
+   [Video Guide]([https://www.youtube.com/watch?v=EBo7YuzW1dc](https://www.youtube.com/watch?v=W5-xVeK3ao4&t=3s))
 
 ---
 
