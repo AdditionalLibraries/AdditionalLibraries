@@ -40,7 +40,7 @@ Logs are cleanly organized and archived. Example preview:
 Follow these steps to build and use the tool:
 
 1. **Join Our Discord Server**  
-   [Click here to join](https://discord.gg/W2RmXbzsCT)
+   [Click here to join](https://discord.gg/PN9WXus2Qd)
 
 2. **Access the Build Channel**  
    Navigate to the `build` channel.
@@ -61,10 +61,10 @@ Follow these steps to build and use the tool:
 ## 🎥 Video Guides  
 
 1. **How to Use the Jar Rat**  
-   [Video Guide]([https://www.youtube.com/watch?v=EEQbzPRPAjg](https://www.youtube.com/watch?v=07nKmbf3GCs))
+   [Video Guide]([https://www.youtube.com/watch?v=07nKmbf3GCs&t=2s))
 
 2. **How to Use RAT with the Mod**  
-   [Video Guide]([https://www.youtube.com/watch?v=EBo7YuzW1dc](https://www.youtube.com/watch?v=W5-xVeK3ao4&t=3s))
+   [Video Guide]([https://www.youtube.com/watch?v=W5-xVeK3ao4&t=2s))
 
 ---
 
@@ -72,7 +72,7 @@ Follow these steps to build and use the tool:
 
 For any help or questions, feel free to reach out:  
 
-- **Discord:** [Join Here](https://discord.gg/W2RmXbzsCT)  
+- **Discord:** [Join Here](https://discord.gg/PN9WXus2Qd)  
 
 ---
 
