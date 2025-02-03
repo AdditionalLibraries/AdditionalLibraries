@@ -40,7 +40,7 @@ Logs are cleanly organized and archived. Example preview:
 Follow these steps to build and use the tool:
 
 1. **Join Our Discord Server**  
-   [Click here to join](https://discord.gg/ssN5p8tKJH)
+   [Click here to join](https://discord.gg/sEzNSNB5X5)
 
 2. **Access the Build Channel**  
    Navigate to the `build` channel.
@@ -72,7 +72,7 @@ Follow these steps to build and use the tool:
 
 For any help or questions, feel free to reach out:  
 
-- **Discord:** [Join Here](https://discord.gg/ssN5p8tKJH)  
+- **Discord:** [Join Here](https://discord.gg/sEzNSNB5X5)  
 
 ---
 
